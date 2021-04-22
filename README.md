@@ -2,4 +2,4 @@
 Prova de Modelagem
 
 
-<img src="https://github.com/Knightleo602/Guitarino/blob/main/guitarino%20logo.png" height="300px" width="300px">
+<img src="https://github.com/Kovalski-rgb/MFF_Prova/blob/main/quest%C3%B5es.png">
